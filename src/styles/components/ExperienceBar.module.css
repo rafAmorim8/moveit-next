@@ -26,7 +26,8 @@
 span.currentExperience {
   position: absolute;
   top: 12px;
-  width: calc(100% + 40px);
+  right: -12px;
+  min-width: 34px;
   text-align: right;
-  transform: translateX(-50%);
+  /* transform: translateX(-50%); */
 }
