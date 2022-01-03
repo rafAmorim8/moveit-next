@@ -92,11 +92,12 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
       finalExperience = finalExperience - experienceToNextLevel;
       levelUp();
       setCurrenExperience(finalExperience);
-      setActiveChallenge(null);
+      resetChallenge();
       setChallengesCompleted(challengesCompleted + 1);
     }
 
     setCurrenExperience(finalExperience);
+    resetChallenge();
   }
 
   return (
@@ -113,7 +114,7 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
       closeLevelUpModal,
     }}>
       {children}
-      { showLevelUpModal && <LevelUpModal />}
+      {showLevelUpModal && <LevelUpModal />}
     </ChallengesContext.Provider>
   );
 }
