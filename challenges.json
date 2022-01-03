@@ -1,33 +1,33 @@
 [
   {
     "type": "body",
-    "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
-    "amount": 80
-  },
-  {
-    "type": "body",
-    "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço.",
+    "description": "Extend your arm out in front of you with the palm facing the ceiling. Using your free hand, gently pull the fingers on the extended arm back toward your body for at least 15 seconds",
     "amount": 60
   },
   {
     "type": "body",
-    "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+    "description": "Sitting on your chair, straighten your spine then place your left palm on the top of your head. Slowly tilt your head to the left holding the position for 30 seconds. Repeat the same posture on the other side",
     "amount": 70
   },
   {
     "type": "body",
-    "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da região.",
+    "description": "Stand and reach both hands behind your back holding your left wrist with your right hand. Try to lift your arms and hold it for 30 seconds.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Stand tall with the feet parallel, rest your hands on your hips, and inhale. Now, slowly start folding forward from the hips while exhaling and try to touch the back of your ankles with your palms. Hold this position for 30 seconds.",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Separate and straighten your fingers until tension of a stretch is felt. Hold for 10 seconds, relax and bend your fingers at the knuckles and hold for 10 seconds. Repeat it 3 times.",
     "amount": 60
   },
   {
     "type": "body",
-    "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
-    "amount": 100
-  },
-  {
-    "type": "body",
-    "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
-    "amount": 80
+    "description": " From a stable, aligned sitting position turn your chin toward your left shoulder to create a stretch on the right side of your neck. Hold right stretch tensions for 10-20 seconds. Do each side twice.",
+    "amount": 70
   },
   {
     "type": "body",
@@ -36,27 +36,27 @@
   },
   {
     "type": "body",
-    "description": "Sentado, cruze uma perna e incline seu tronco à frente, troque de perna após 10 segundos.",
+    "description": " Interlace fingers, then straighten arms in front of you. The palm should be facing away from you as you do this stretch. Feel stretch in arms and through the upper part of the shoulder blades. Hold stretch for 10-15 seconds. Do at least two times.",
     "amount": 80
   },
   {
     "type": "eye",
-    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "description": "Close your eyes and cover them with the palm of your hands for 90 seconds, after that open them gently.",
     "amount": 90
   },
   {
     "type": "eye",
-    "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
-    "amount": 140
+    "description": "Close your eyes, then slowly look to your left then to your right (move your eyes only). Repeat 3 times.",
+    "amount": 70
   },
   {
     "type": "eye",
-    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "description": "Close your eyes, then slowly look up towards the ceiling then back down the floor (move your eyes only). Repeat 3 times.",
     "amount": 70
   },
   {
     "type": "body",
-    "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
-    "amount": 90
+    "description": "Stand up, place your hands on your hips and turn your hips to the left holding the position for 5 seconds. Repeat to the other side.",
+    "amount": 70
   }
 ]
