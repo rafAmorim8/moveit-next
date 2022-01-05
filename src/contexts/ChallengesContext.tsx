@@ -91,11 +91,9 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
     if (finalExperience >= experienceToNextLevel) {
       finalExperience = finalExperience - experienceToNextLevel;
       levelUp();
-      setCurrenExperience(finalExperience);
-      resetChallenge();
-      setChallengesCompleted(challengesCompleted + 1);
     }
 
+    setChallengesCompleted(challengesCompleted + 1);
     setCurrenExperience(finalExperience);
     resetChallenge();
   }
